@@ -1,0 +1,126 @@
+#back{
+    background-color: rgb(25, 25, 25);
+}
+#frontimg{
+    margin-top: 80px;
+    margin-left: 80px;
+    padding-left: 110px;
+    width: 940px;
+}
+.cs{
+
+    text-align: center;
+    line-height: 1.25em;
+    font-size: 72px;
+    color: #FF5a4E;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding-left: 100px;
+    padding-right: 100px; 
+}
+.sencolor{
+    color: white;
+    text-align: center;
+    
+    font-family: 'Roboto', sans-serif;
+}
+.p_class{
+    text-align: center;
+    line-height: 1.875em;
+    font-size: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.btn1{
+    color: white;
+    /* Border */
+    border-radius: 130px;
+    border-style:solid;
+    border:  #FF5A4E;
+    background-color: #FF5A4E;
+    /* Padding */
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    position:relative;
+    /* Margin */
+    margin-left: 485px; 
+}
+.btn2{
+    
+    background-color: rgb(25, 25, 25); 
+    color: #FF5A4E; 
+    border: solid #FF5A4E;
+    text-decoration: none;
+    border-radius: 130px;
+    /* Padding */
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+.h2{
+    color: white;
+    text-align:center ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+.logo{
+    width: auto;
+}
+#youtube-logo{
+    width: 20px;
+    margin-top: 10px;
+}
+.back2{
+    background-color:#FF5A4E;
+}
+#h3-margin{
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.myflex{
+    display: flex;
+    justify-content: center;
+    
+}
+.myflex > div{
+    background-color: black;
+    font-size: 25px;
+    width: 370px;
+    height: 560px;
+    margin: 20px;
+    
+}
+.img1{
+    width: 370px;
+}
+.myflex1{
+    color: #FF5a4E;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.class-date{
+    color:#FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align :center;
+    padding-bottom: 40px;
+}
+#h5-id{
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+}
